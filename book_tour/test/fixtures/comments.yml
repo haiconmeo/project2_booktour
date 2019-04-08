@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  comments_id: 1
+  tour_id: 
+  name: MyString
+  comments_Details: MyString
+  like: 
+
+two:
+  comments_id: 1
+  tour_id: 
+  name: MyString
+  comments_Details: MyString
+  like: 

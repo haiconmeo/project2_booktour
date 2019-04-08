@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  booktourDetails_id: 1
+  tour_id: 1
+  dateDay: 2019-04-08
+  tour_Price: 1
+  mem_Num: 1
+  requests: MyText
+  users_id: 1
+  status: 1
+
+two:
+  booktourDetails_id: 1
+  tour_id: 1
+  dateDay: 2019-04-08
+  tour_Price: 1
+  mem_Num: 1
+  requests: MyText
+  users_id: 1
+  status: 1
